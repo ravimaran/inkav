@@ -1,0 +1,22 @@
+{
+  "name": "inkav",
+  "version": "1.0.0",
+  "description": "InKav Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravimaran/inkav.git"
+  },
+  "author": "Ravi Santhalingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravimaran/inkav/issues"
+  },
+  "homepage": "https://github.com/ravimaran/inkav#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
